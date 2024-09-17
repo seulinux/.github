@@ -4,8 +4,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://seulinux.github.io/recruit">recruit</a> .
-    <a href="mailto:recruit@seumsc.com">mail</a> .
-    <a href="https://seulinux.github.io/about">about</a>
+    <a href="https://seulinux.com/recruit">recruit</a> .
+    <a href="mailto:recruit@seulinux.com">mail</a> .
+    <a href="https://seulinux.com/about">about</a>
   </samp>
 </p>
